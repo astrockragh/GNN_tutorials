@@ -1,6 +1,6 @@
 # GNN tutorials
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21926993.svg)](https://doi.org/10.5281/zenodo.21926993)]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21926993.svg)](https://doi.org/10.5281/zenodo.21926993)
 
 Hands-on companion notebooks to the review chapter *Machine Learning Techniques for Astrophysics and Cosmology: Graph Neural Networks* (C. K. Jespersen, Springer, to appear). Both notebooks run in the browser on Google Colab — no installation needed. Click a badge to launch.
 
