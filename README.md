@@ -1,7 +1,6 @@
 # GNN tutorials
 
-<!-- After the first Zenodo release, paste the concept-DOI badge here (from zenodo.org → account → GitHub → this repo). It looks like:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21926993.svg)](https://doi.org/10.5281/zenodo.21926993)]
 
 Hands-on companion notebooks to the review chapter *Machine Learning Techniques for Astrophysics and Cosmology: Graph Neural Networks* (C. K. Jespersen, Springer, to appear). Both notebooks run in the browser on Google Colab — no installation needed. Click a badge to launch.
 
